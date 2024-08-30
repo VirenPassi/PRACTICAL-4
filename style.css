@@ -1,0 +1,26 @@
+/* Custom CSS for the Bootstrap Webpage */
+
+/* Navbar customization */
+.custom-navbar {
+    background-color: #343a40; /* Dark background color */
+}
+
+.custom-navbar a {
+    color: white; /* White text color for links */
+}
+
+/* Hero section customization */
+.hero-section {
+    background-color: #007bff; /* Bootstrap primary color */
+    color: white; /* White text color */
+    padding: 100px 0; /* Vertical padding */
+    text-align: center; /* Center-align text */
+}
+
+/* Footer customization */
+.custom-footer {
+    background-color: #343a40; /* Dark background color */
+    color: white; /* White text color */
+    padding: 20px 0; /* Vertical padding */
+    text-align: center; /* Center-align text */
+}
